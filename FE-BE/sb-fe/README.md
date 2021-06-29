@@ -2,9 +2,6 @@
 
 Nome: Andrea
 Cognome: Perotti
-Matricola: 939447
-Codice Persona: 10727269
-Email: andrea.perotti@mail.polimi.it
 
 ## Script disponibili
 
